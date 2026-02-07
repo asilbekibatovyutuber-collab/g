@@ -80,7 +80,6 @@ const translations = {
 // ====== Mahsulotlar arrayi (100 ta mahsulot) ======
 const products = [
   //sumka
-  { name: "Сумка барсетка LACOSTE", img: "https://avatars.mds.yandex.net/get-mpic/16567947/2a00000198a035af72b048eea8cd4d25a4a6/optimize", category: "sumka", price: 104000, description: "" },
   { name: "Ryukzak noutbuk uchun, sayohat, maktab, ish uchun, USB portli va suv o'tkazmaydigan, sport uchun", img: "https://avatars.mds.yandex.net/get-mpic/15431543/2a0000019b40737f23e3b76f9f9b98a588f6/optimize", category: "sumka", price: 171000, description: "" },
   { name: "Jordan 23 sport ryukzagi, qora, maktab va mashg‘ulotlar uchun", img: "https://avatars.mds.yandex.net/get-mpic/15431543/2a0000019b404871130e2b60cfc753df2975/900x1200", category: "sumka", price: 155000, description: "" },
   { name: "Sport sayohat sumkasi katta va fitness ryukzaki", img: "	https://avatars.mds.yandex.net/get-mpic/13480750/2a00000195b1f9d0b02a13c2f690c31c6253/optimize", category: "sumka", price: 114000, description: "" },
@@ -528,4 +527,5 @@ window.onload = () => {
   checkLogin(); // 👈 LOGIN TEKSHIRISH
   
 };
+
   
